@@ -40,6 +40,7 @@
     "xmlbuilder2": "^3.1.1"
   },
   "devDependencies": {
+    "md-to-pdf": "^5.2.5",
     "nodemon": "^2.0.22"
   }
 }
